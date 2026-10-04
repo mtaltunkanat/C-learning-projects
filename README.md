@@ -99,9 +99,6 @@ C-learning-projects/
 
 ---
 
-
-<escape><p align="center"><img src="./assets/c-readme.png" alt="C Learning Projects" width="100%"></p></escape>
-
 <p align="center">
   <b>Her gün biraz daha fazla öğren, her gün biraz daha iyi kod yaz.</b>
   <br>
